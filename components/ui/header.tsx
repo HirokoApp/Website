@@ -9,8 +9,8 @@ export default function Header() {
           {/* Site branding */}
           <div className="shrink-0 mr-4">
             {/* Logo */}
-            <Link href="/" className="block" aria-label="Cruip">
-              <img src="/images/logo.png" alt="Cruip" className="h-14" />
+            <Link href="/" className="block" aria-label="Hiroko">
+              <img src="/images/logo.png" alt="Hiroko" className="h-14" />
             </Link>
           </div>
 
